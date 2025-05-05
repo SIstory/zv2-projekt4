@@ -1,0 +1,14 @@
+~*.*
+*.pdf
+*.epub
+*.bak
+*.jpg
+*.jpeg
+*.png
+*.zip
+*.tgz
+*~.*
+
+data-2014-09-30-V7.xml
+
+sifranti-novi-V1/
