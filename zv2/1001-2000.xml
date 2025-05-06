@@ -4,6 +4,7 @@
      type="chapter"
      xml:id="zv2.1001-2000">
    <head>Seznam smrtnih žrtev 1001-2000</head>
+   <docAuthor>Dunja Dobaja, Marta Rendla, Mojca Šorn in Tadeja Tominšek Čehulić</docAuthor>
    <listPerson>
       <person xml:id="zv2.1001">
          <persName>
@@ -6971,7 +6972,7 @@
          </residence>
          <socecStatus>Nemška vojska</socecStatus>
          <death>
-            <date when="1943-02-28"/>
+            <date when="1943-02-29"/>
             <settlement>pri Stalingradu</settlement>
             <country>Rusija</country>
             <note type="cause">Pogrešan</note>

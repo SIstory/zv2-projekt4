@@ -4,6 +4,7 @@
      type="chapter"
      xml:id="zv2.2001-3000">
    <head>Seznam smrtnih žrtev 2001-3000</head>
+   <docAuthor>Dunja Dobaja, Marta Rendla, Mojca Šorn in Tadeja Tominšek Čehulić</docAuthor>
    <listPerson>
       <person xml:id="zv2.2001">
          <persName>
@@ -42532,7 +42533,7 @@
             <surname>Grdadolnik</surname>
          </persName>
          <birth>
-            <date when="1925-02"/>
+            <date when="1925-02-30"/>
             <settlement>Dragomer</settlement>
          </birth>
          <sex value="M"/>

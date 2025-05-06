@@ -154,6 +154,7 @@
                             <xsl:result-document href="{$div-document}">
                             <div type="chapter" xml:id="{substring-after(current-grouping-key(),'../')}">
                                 <head>Seznam smrtnih žrtev <xsl:value-of select="$group-number"/></head>
+                                <docAuthor>Dunja Dobaja, Marta Rendla, Mojca Šorn in Tadeja Tominšek Čehulić</docAuthor>
                                 <listPerson>
                                     <xsl:for-each select="current-group()">
                                         <xsl:variable name="personID" select="concat('zv2.', number(position()) + number($group-number_1) - 1)"/>
