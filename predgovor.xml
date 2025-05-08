@@ -35,11 +35,11 @@
             <edition>1.0</edition>
          </editionStmt>
          <publicationStmt>
-            <authority>Pregled mrliških matičnih knjig za ugotovitev števila ter strukture žrtev druge svetovne vojne in neposredno po njej (V6-1035)</authority>
-            <authority>Raziskovalna infrastruktura slovenskega zgodovinopisja (I0-0013)</authority>
-            <authority>DARIAH-SI (I0-E007)</authority>
-            <authority>Digitalna humanistika: viri, orodja in metode (P6-0436)</authority>
-            <authority>Ekonomska, socialna in okoljska zgodovina Slovenije (P6-0280)</authority>
+            <distributor>Pregled mrliških matičnih knjig za ugotovitev števila ter strukture žrtev druge svetovne vojne in neposredno po njej (V6-1035)</distributor>
+            <distributor>Raziskovalna infrastruktura slovenskega zgodovinopisja (I0-0013)</distributor>
+            <distributor>DARIAH-SI (I0-E007)</distributor>
+            <distributor>Digitalna humanistika: viri, orodja in metode (P6-0436)</distributor>
+            <distributor>Ekonomska, socialna in okoljska zgodovina Slovenije (P6-0280)</distributor>
             <publisher>Inštitut za novejšo zgodovino</publisher>
             <availability>
                <licence>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence>
@@ -53,7 +53,9 @@
             <date when="2025"/>
          </publicationStmt>
          <sourceDesc>
-            <p>Born digital.</p>
+            <bibl>Vida Deželak-Barič. Pregled mrliških matičnih knjig za ugotovitev števila ter strukture žrtev druge svetovne vojne in neposredno po njej. Inštitut za novejšo zgodovino, 2012 2010-09 10.
+               http://www.dlib.si/?URN=URN:NBN:SI:DOC-WJ2TZO12</bibl>
+            <bibl>Andrej Pančur. Žrtve 2. svetovne vojne. Izvoz iz baze in poskusno preračunavanje podatkov z XSLT. GitLab project zrtve-2014-10-01, https://dihur.si/ww2/zrtve-2014-10-01</bibl>
          </sourceDesc>
       </fileDesc>
       <profileDesc>

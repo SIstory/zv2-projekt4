@@ -32,9 +32,27 @@
    <xsl:param name="numberTables"></xsl:param>
    
    <!-- V html/head izpisani metapodatki -->
-   <xsl:param name="description"></xsl:param>
-   <xsl:param name="keywords"></xsl:param>
+   <xsl:param name="description">Pregled mrliških matičnih knjig za ugotovitev števila ter strukture žrtev druge svetovne vojne in neposredno po njej. Zaključno poročilo projekta iz leta 2012 skupaj z objavljenimi raziskovalnimi podatki.</xsl:param>
+   <xsl:param name="keywords">žrtve, druga svetovna vojna, Slovenija, nasilje, revolucija</xsl:param>
    <xsl:param name="title">Pregled mrliških matičnih knjig za ugotovitev števila ter strukture žrtev druge svetovne vojne in neposredno po njej</xsl:param>
+   
+   <doc xmlns="http://www.oxygenxml.com/ns/doc/xsl">
+      <desc>Novo ime za glavno vsebino (glavna navigacija)</desc>
+      <param name="thisLanguage"></param>
+   </doc>
+   <xsl:template name="nav-body-head">
+      <xsl:param name="thisLanguage"/>
+      <xsl:text>Podatki</xsl:text>
+   </xsl:template>
+   
+   <doc xmlns="http://www.oxygenxml.com/ns/doc/xsl">
+      <desc>Novo ime za izpis spremnih študij, glede na število back/div</desc>
+      <param name="thisLanguage"></param>
+   </doc>
+   <xsl:template name="nav-study-head">
+      <xsl:param name="thisLanguage"/>
+      <xsl:text>Poročilo</xsl:text>
+   </xsl:template>
    
    <doc xmlns="http://www.oxygenxml.com/ns/doc/xsl">
       <desc></desc>
