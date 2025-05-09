@@ -18,7 +18,7 @@
    <xsl:param name="outputDir">docs/</xsl:param>
    
    <xsl:param name="homeLabel">SIstory</xsl:param>
-   <xsl:param name="homeURL">https://github.com/sistory/zv2-projekt4</xsl:param>
+   <xsl:param name="homeURL">https://www.sistory.si/publication/67915</xsl:param>
    
    <xsl:param name="title-bar-sticky">false</xsl:param>
    
@@ -43,15 +43,6 @@
    <xsl:template name="nav-body-head">
       <xsl:param name="thisLanguage"/>
       <xsl:text>Podatki</xsl:text>
-   </xsl:template>
-   
-   <doc xmlns="http://www.oxygenxml.com/ns/doc/xsl">
-      <desc>Novo ime za izpis spremnih študij, glede na število back/div</desc>
-      <param name="thisLanguage"></param>
-   </doc>
-   <xsl:template name="nav-study-head">
-      <xsl:param name="thisLanguage"/>
-      <xsl:text>Poročilo</xsl:text>
    </xsl:template>
    
    <doc xmlns="http://www.oxygenxml.com/ns/doc/xsl">

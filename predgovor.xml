@@ -3,7 +3,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Pregled mrliških matičnih knjig za ugotovitev števila ter strukture žrtev druge svetovne vojne in neposredno po njej</title>
+            <title>Pregled mrliških matičnih knjig za ugotovitev števila ter strukture žrtev druge
+               svetovne vojne in neposredno po njej</title>
             <respStmt>
                <resp>Zbiranje in urejanje raziskovalnih podatkov</resp>
                <name>Dunja Dobaja</name>
@@ -29,14 +30,17 @@
             <funder>Javna agencija za raziskovalno dejavnost Republike Slovenije (ARRS)</funder>
             <funder>Ministrstvo za pravosodje</funder>
             <funder>Ministrstvo za delo, družino in socialne zadeve</funder>
-            <funder>Javna agencijaa za znanstvenoraziskovalno in inovacijsko dejavnost Republike Slovenije (ARIS)</funder>
+            <funder>Javna agencijaa za znanstvenoraziskovalno in inovacijsko dejavnost Republike
+               Slovenije (ARIS)</funder>
          </titleStmt>
          <editionStmt>
             <edition>1.0</edition>
          </editionStmt>
          <publicationStmt>
-            <distributor>Pregled mrliških matičnih knjig za ugotovitev števila ter strukture žrtev druge svetovne vojne in neposredno po njej (V6-1035)</distributor>
-            <distributor>Raziskovalna infrastruktura slovenskega zgodovinopisja (I0-0013)</distributor>
+            <distributor>Pregled mrliških matičnih knjig za ugotovitev števila ter strukture žrtev
+               druge svetovne vojne in neposredno po njej (V6-1035)</distributor>
+            <distributor>Raziskovalna infrastruktura slovenskega zgodovinopisja
+               (I0-0013)</distributor>
             <distributor>DARIAH-SI (I0-E007)</distributor>
             <distributor>Digitalna humanistika: viri, orodja in metode (P6-0436)</distributor>
             <distributor>Ekonomska, socialna in okoljska zgodovina Slovenije (P6-0280)</distributor>
@@ -44,85 +48,98 @@
             <availability>
                <licence>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence>
                <p>To delo je ponujeno pod <ref
-                  target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative
-                  Commons Priznanje avtorstva-Nekomercialno-Brez predelav 4.0 Mednarodna
-                  licenco</ref>
+                     target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons
+                     Priznanje avtorstva-Nekomercialno-Brez predelav 4.0 Mednarodna licenco</ref>
                </p>
                <p rend="CIP"><![CDATA[<br/>]]></p>
             </availability>
             <date when="2025"/>
          </publicationStmt>
          <sourceDesc>
-            <bibl>Vida Deželak-Barič. Pregled mrliških matičnih knjig za ugotovitev števila ter strukture žrtev druge svetovne vojne in neposredno po njej. Inštitut za novejšo zgodovino, 2012 2010-09 10.
-               http://www.dlib.si/?URN=URN:NBN:SI:DOC-WJ2TZO12</bibl>
-            <bibl>Andrej Pančur. Žrtve 2. svetovne vojne. Izvoz iz baze in poskusno preračunavanje podatkov z XSLT. GitLab project zrtve-2014-10-01, https://dihur.si/ww2/zrtve-2014-10-01</bibl>
+            <bibl>Vida Deželak-Barič. Pregled mrliških matičnih knjig za ugotovitev števila ter
+               strukture žrtev druge svetovne vojne in neposredno po njej. Inštitut za novejšo
+               zgodovino, 2012 2010-09 10. http://www.dlib.si/?URN=URN:NBN:SI:DOC-WJ2TZO12</bibl>
+            <bibl>Andrej Pančur. Žrtve 2. svetovne vojne. Izvoz iz baze in poskusno preračunavanje
+               podatkov z XSLT. GitLab project zrtve-2014-10-01,
+               https://dihur.si/ww2/zrtve-2014-10-01</bibl>
          </sourceDesc>
       </fileDesc>
       <profileDesc>
          <abstract xml:lang="sl">
-            <p>Raziskava je temeljila na predhodno oblikovani zbirki podatkov o žrtvah druge svetovne vojne in
-               neposredno po njej, ki je nastajala na temelju pregleda relevantne literature in arhivskih virov. S
-               postopkom verificiranja podatkov iz te zbirke na podlagi sistematičnih pregledov mrliških in delno
-               tudi rojstnih matičnih knjig so bili predhodno zbrani podatki potrjeni, dopolnjeni, korigirani ali
-               ovrženi. V številnih primerih so bile ugotovljene nove žrtve, iz seznama žrtev so bile izločene
-               osebe, za katere je pregled matičnih knjig izkazal, da so vojno dejansko preživele, izločeni so bili
-               tudi t. i. dvojniki. Preveriti je bilo mogoče okoli 60 % oseb s sedanjega seznama žrtev, za ostale
-               vpisi smrti v mrliške knjige niso bili izvedeni oziroma jih ni bilo mogoče ugotoviti (npr. v
-               primerih, ko vzrok smrti ni razviden). Verifikacija podatkov se je potrdila kot pomemben
-               raziskovalni postopek v smeri prizadevanj za čim bolj natančno ugotovitev dejanskega števila
-               žrtev ter njihove natančne identifikacije. Pridobljeni so bili pomembni novi podatki za nekatere
+            <p>Raziskava je temeljila na predhodno oblikovani zbirki podatkov o žrtvah druge
+               svetovne vojne in neposredno po njej, ki je nastajala na temelju pregleda relevantne
+               literature in arhivskih virov. S postopkom verificiranja podatkov iz te zbirke na
+               podlagi sistematičnih pregledov mrliških in delno tudi rojstnih matičnih knjig so
+               bili predhodno zbrani podatki potrjeni, dopolnjeni, korigirani ali ovrženi. V
+               številnih primerih so bile ugotovljene nove žrtve, iz seznama žrtev so bile izločene
+               osebe, za katere je pregled matičnih knjig izkazal, da so vojno dejansko preživele,
+               izločeni so bili tudi t. i. dvojniki. Preveriti je bilo mogoče okoli 60 % oseb s
+               sedanjega seznama žrtev, za ostale vpisi smrti v mrliške knjige niso bili izvedeni
+               oziroma jih ni bilo mogoče ugotoviti (npr. v primerih, ko vzrok smrti ni razviden).
+               Verifikacija podatkov se je potrdila kot pomemben raziskovalni postopek v smeri
+               prizadevanj za čim bolj natančno ugotovitev dejanskega števila žrtev ter njihove
+               natančne identifikacije. Pridobljeni so bili pomembni novi podatki za nekatere
                kategorije žrtev, o katerih so bili predhodno zbrani podatki zelo pomanjkljivi.</p>
-            <p>Izvajanje projekta je bilo v veliki meri vezano na terensko delo, tj. pregledovanje matičnih knjig
-               na matičnih in krajevnih uradih. Projektna skupina je na različnih območjih Slovenije v zadevnem
-               projektnem obdobju pregledala matične knjige na 31 upravnih enotah, s čimer je zaključen pregled
-               knjig na vseh 58 upravnih enot RS. Opravila je 381 dni dela na terenu, v ostalem pa je podatke iz
-               digitalnih posnetkov vnašala v računalniško bazo Smrtne žrtve med prebivalstvom na območju
-               Republike Slovenije med drugo svetovno vojno in neposredno po njej. Podatke o osebah, ki so bile
-               preverjene po matičnih knjigah, postopoma objavlja na spletni strani www.sistory.si, kjer so
-               trenutno objavljeni podatki za 50.870 žrtev 2. svetovne vojne in zaradi nje.</p>
-            <p>Analiza zbranih podatkov izkazuje, da sodi Slovenija v evropskih primerjavah med visoko
-               prizadeta območja, v nekdanjem jugoslovanskem okviru pa se glede prizadetosti umešča v
-               jugoslovansko povprečje. Na seznam smrtnih žrtev je trenutno uvrščenih 97.697 oseb, katerih smrt
-               je povezana z nasilnimi vojnimi in povojnimi dogodki, kar predstavlja 6,5 % izgubo celotne
-               populacije. Historični procesi so s stališča izgub človeških življenj bili najbolj radikalni v
-               Ljubljanski pokrajini, saj so povzročili 9,5 odstotno populacijsko izgubo, najmanj pa v Prekmurju
-               z 1,9 odstotno izgubo prebivalstva. Najvišje število smrtnih žrtev je zakrivil nemški okupator,
-               sledi mu partizansko-revolucionarni tabor. Glede na ugotovljene vojne statuse so najvišje število
-               smrtnih žrtev utrpeli pripadniki partizanskih enot in civilno prebivalstvo.</p>
+            <p>Izvajanje projekta je bilo v veliki meri vezano na terensko delo, tj. pregledovanje
+               matičnih knjig na matičnih in krajevnih uradih. Projektna skupina je na različnih
+               območjih Slovenije v zadevnem projektnem obdobju pregledala matične knjige na 31
+               upravnih enotah, s čimer je zaključen pregled knjig na vseh 58 upravnih enot RS.
+               Opravila je 381 dni dela na terenu, v ostalem pa je podatke iz digitalnih posnetkov
+               vnašala v računalniško bazo Smrtne žrtve med prebivalstvom na območju Republike
+               Slovenije med drugo svetovno vojno in neposredno po njej. Podatke o osebah, ki so
+               bile preverjene po matičnih knjigah, postopoma objavlja na spletni strani
+               www.sistory.si, kjer so trenutno objavljeni podatki za 50.870 žrtev 2. svetovne vojne
+               in zaradi nje.</p>
+            <p>Analiza zbranih podatkov izkazuje, da sodi Slovenija v evropskih primerjavah med
+               visoko prizadeta območja, v nekdanjem jugoslovanskem okviru pa se glede prizadetosti
+               umešča v jugoslovansko povprečje. Na seznam smrtnih žrtev je trenutno uvrščenih
+               97.697 oseb, katerih smrt je povezana z nasilnimi vojnimi in povojnimi dogodki, kar
+               predstavlja 6,5 % izgubo celotne populacije. Historični procesi so s stališča izgub
+               človeških življenj bili najbolj radikalni v Ljubljanski pokrajini, saj so povzročili
+               9,5 odstotno populacijsko izgubo, najmanj pa v Prekmurju z 1,9 odstotno izgubo
+               prebivalstva. Najvišje število smrtnih žrtev je zakrivil nemški okupator, sledi mu
+               partizansko-revolucionarni tabor. Glede na ugotovljene vojne statuse so najvišje
+               število smrtnih žrtev utrpeli pripadniki partizanskih enot in civilno
+               prebivalstvo.</p>
          </abstract>
          <abstract xml:lang="en">
-            <p>The research was based on the previously established database of victims of World War II and the
-               time immediately after it, created on the basis of a systematic review of the relevant literature and
-               archive sources. By means of verification of data from this database on the basis of systematic
-               reviews of death registers and partly also birth registers, the previously collected pieces of
-               information were confirmed, amended, corrected or refuted. In many cases new victims were
-               discovered; persons were excluded from the list of victims that turned out, on the basis of the
-               review of the registers, to have actually survived the war; and the so-called double entries were
-               also excluded. Around 60 % of persons from the current list of victims were verifiable, while the
-               deaths of others had not been entered into the death registers or were not identifiable (for example,
-               in the cases where the cause of death was not apparent). The verification of data proved to be an 
-               important research procedure in the efforts to establish as exact and realistic a number of victims
-               as possible as well as their precise identification. Important new information was acquired about
-               certain categories of victims, for which very deficient data had previously been collected.</p>
-            <p>The realisation of the project largely depended on field work; that is, on the reviews of registers in
-               registry offices as well as local offices. In various areas of Slovenia, throughout the duration of the
-               project, the project group reviewed civil registers at 31 administrative units, thus concluding the
-               review of civil registers of all 58 administrative units of the RS. 381 days were invested in field
-               work, and the rest of the time was spent in order to input entries into the computer database
-               entitled Casualties among the population in the territory of the Republic of Slovenia during World
-               War II and immediately after it. The information about the persons checked in the civil registers is
-               gradually published at the www.sistory.si website. This list currently includes information about
-               50,870 victims of World War II.</p>
-            <p>The analysis of the data gathered proves that in comparison with other European countries
-               Slovenia belongs among the regions severely affected by the war, while in the former Yugoslav
-               context Slovenia is average in terms of damage. The list of victims currently includes 97,697
-               persons, whose deaths were related to wartime and post-war violence, which represents a loss of
-               6.5 % of the whole population. From the viewpoint of the loss of human lives, the historical
-               processes were most radical in the Ljubljana Province, as the loss of population there amounted to
-               9.5 %, while this percentage was the lowest in the Prekmurje region, where 1.9 % of the
-               population was killed. Most deaths were caused by the German occupiers, followed by the
-               partisan and revolutionary camp. The largest number of deaths was suffered by the members of
-               the partisan units and the civil population.</p>
+            <p>The research was based on the previously established database of victims of World War
+               II and the time immediately after it, created on the basis of a systematic review of
+               the relevant literature and archive sources. By means of verification of data from
+               this database on the basis of systematic reviews of death registers and partly also
+               birth registers, the previously collected pieces of information were confirmed,
+               amended, corrected or refuted. In many cases new victims were discovered; persons
+               were excluded from the list of victims that turned out, on the basis of the review of
+               the registers, to have actually survived the war; and the so-called double entries
+               were also excluded. Around 60 % of persons from the current list of victims were
+               verifiable, while the deaths of others had not been entered into the death registers
+               or were not identifiable (for example, in the cases where the cause of death was not
+               apparent). The verification of data proved to be an important research procedure in
+               the efforts to establish as exact and realistic a number of victims as possible as
+               well as their precise identification. Important new information was acquired about
+               certain categories of victims, for which very deficient data had previously been
+               collected.</p>
+            <p>The realisation of the project largely depended on field work; that is, on the
+               reviews of registers in registry offices as well as local offices. In various areas
+               of Slovenia, throughout the duration of the project, the project group reviewed civil
+               registers at 31 administrative units, thus concluding the review of civil registers
+               of all 58 administrative units of the RS. 381 days were invested in field work, and
+               the rest of the time was spent in order to input entries into the computer database
+               entitled Casualties among the population in the territory of the Republic of Slovenia
+               during World War II and immediately after it. The information about the persons
+               checked in the civil registers is gradually published at the www.sistory.si website.
+               This list currently includes information about 50,870 victims of World War II.</p>
+            <p>The analysis of the data gathered proves that in comparison with other European
+               countries Slovenia belongs among the regions severely affected by the war, while in
+               the former Yugoslav context Slovenia is average in terms of damage. The list of
+               victims currently includes 97,697 persons, whose deaths were related to wartime and
+               post-war violence, which represents a loss of 6.5 % of the whole population. From the
+               viewpoint of the loss of human lives, the historical processes were most radical in
+               the Ljubljana Province, as the loss of population there amounted to 9.5 %, while this
+               percentage was the lowest in the Prekmurje region, where 1.9 % of the population was
+               killed. Most deaths were caused by the German occupiers, followed by the partisan and
+               revolutionary camp. The largest number of deaths was suffered by the members of the
+               partisan units and the civil population.</p>
          </abstract>
          <textClass>
             <keywords xml:lang="sl">
@@ -148,21 +165,140 @@
          </langUsage>
       </profileDesc>
    </teiHeader>
-  <text>
-     <front>
-        <titlePage>
-           <docTitle>
-              <titlePart>Pregled mrliških matičnih knjig za ugotovitev števila ter strukture žrtev druge svetovne vojne in neposredno po njej</titlePart>
-              <titlePart>Zaključno poročilo projekta iz leta 2012 skupaj z objavljenimi raziskovalnimi podatki</titlePart>
-           </docTitle>
-           <docImprint>
-              <publisher>Inštitut za novejšo zgodovino</publisher>
-              <docDate>2025</docDate>
-           </docImprint>
-        </titlePage>
-     </front>
+   <text>
+      <front>
+         <titlePage>
+            <docTitle>
+               <titlePart>Pregled mrliških matičnih knjig za ugotovitev števila ter strukture žrtev
+                  druge svetovne vojne in neposredno po njej</titlePart>
+               <titlePart>Zaključno poročilo projekta iz leta 2012 skupaj z objavljenimi
+                  raziskovalnimi podatki</titlePart>
+            </docTitle>
+            <docImprint>
+               <publisher>Inštitut za novejšo zgodovino</publisher>
+               <docDate>2025</docDate>
+            </docImprint>
+         </titlePage>
+         <div type="preface" xml:id="preface">
+            <head xml:id="preface-head-1">Uvod</head>
+            <docAuthor xml:id="preface-docAuthor-1">Andrej Pančur</docAuthor>
+            <p xml:id="preface-p-1">Inštitut za novejšo zgodovino je med letoma 1997 in 2012 izvajal
+               obširno raziskavo, katere namen je bil ugotoviti čim bolj natančno število in
+               strukturo smrtnih žrtev na Slovenskem med drugo svetovno vojno in zaradi nje
+               neposredno po končani vojni. Ocena takratne zgodovinopisne stroke je namreč bila, da
+               lahko samo natančna in celovita raziskava tega vidika zgodovinskega dogajanja
+               predstavlja izhodišče za celovito obravnavo tako problematike smrtnih žrtev kakor
+               tudi značaja druge svetovne vojne na Slovenskem.</p>
+            <p xml:id="preface-p-2">Inštitut za novejšo zgodovino je to raziskavo izvajal v okviru
+               štirih raziskovalnih projektov:</p>
+            <list type="unordered">
+               <item> <ref target="https://cris.cobiss.net/ecris/si/sl/project/572">Žrtve II.
+                     svetovne vojne in zaradi nje - nacionalna zbirka</ref> (1997−2002),</item>
+               <item><ref target="https://cris.cobiss.net/ecris/si/sl/project/4785">Smrtne žrtve med
+                     prebivalstvom na območju RS med 2. svetovno vojno in neposredno po
+                  njej</ref> (2002–2006),</item>
+               <item><ref target="https://cris.cobiss.net/ecris/si/sl/project/4472">Preverjanje
+                     seznamov žrtev druge svetovne vojne in neposredno po njej po matičnih
+                     knjigah</ref> (2006–2009),</item>
+               <item><ref target="https://cris.cobiss.net/ecris/si/sl/project/6887">Pregled mrliških
+                     matičnih knjig za ugotovitev števila ter strukture žrtev druge svetovne vojne
+                     in neposredno po njej</ref> (2010-2012).</item>
+            </list>
+            <p xml:id="preface-p-3">Glavni rezultat teh projektov je bila zbirka raziskovalnih
+               podatkov <hi rend="italic">Smrtne žrtve med prebivalstvom na območju Republike
+                  Slovenije med drugo svetovno vojno in neposredno po njej</hi>. Zbirka, ki trenutno
+               vsebuje že več kot 100.000 oseb, je sistematičen popis vojaških in civilnih oseb, ki
+               so med drugo svetovno vojno in neposredno po njej (maj 1940 − januar 1946) imele
+               rezidenčno pravico na območju današnje Republike Slovenije in so življenje izgubile
+               zaradi vojnega in povojnega nasilja ali posledic vojne. Osebno identiteto posamezne
+               žrtve določajo osebni podatki in podatki o okoliščinah smrti, skupaj 25
+               spremenljivk.</p>
+            <p xml:id="preface-p-4">Zbiranje raziskovalnih podatkov o žrtvah druge svetovne vojne je
+               bilo metodološko razdeljeno na tri osnovne faze, ki so se medsebojno prepletale. V
+               prvi fazi je bil poudarek na pregledovanju relevantne literature, zlasti tiste s
+               seznami žrtev, nato pregled objavljenih virov iz vojnega in povojnega časa ter raznih
+               časopisov in revij (skupaj podatki za okoli 30.000 oseb). V drugi, še obsežnejši fazi
+               zbiranja podatkov, je raziskovalna skupina pregledalo obsežno primarno in sekundarno
+               arhivsko gradivo v arhivskih in muzejskih ustanovah ter že zbrano gradivo različnih
+               civilnih združenj (skupaj podatki za več kot 90.000 oseb). Temu je sledila tretja
+               faza preverjanja podatkov o žrtvah po matičnih knjigah, s čimer se je občutno
+               povečala zanesljivost podatkov (skupaj več kot 97.000 oseb, od tega je bilo 60% lahko
+               preverjenih po matičnih knjigah). Ob koncu izvajanja zadnjega v nizu projektov je
+               raziskovalni skupini uspelo vzpostaviti tako zelo natančno zbirko raziskovalnih
+               podatkov, da je obenem lahko izvedla verodostojno študijo o strukturi smrtnih žrtev
+               na Slovenskem med drugo svetovno vojno in zaradi nje neposredno po končani vojni.
+               Rezultati strukturnih analiz zelo dobro odražajo oziroma potrjujejo dinamiko
+               zgodovinskega dogajanja, ki je bila opisana v tej študiji.</p>
+            <p xml:id="preface-p-5">Študija je bila leta 2013 objavljena kot priloga <ref
+                  target="https://www.dlib.si/details/URN:NBN:SI:DOC-WJ2TZO12">zaključnega poročila
+                  o rezultatih ciljnega raziskovalnega projekta Pregled mrliških matičnih knjig za
+                  ugotovitev števila ter strukture žrtev druge svetovne vojne in neposredno po
+                  njej</ref>. Ker ugotovitve te celovite študije še vedno zelo aktualne, saj jih
+               tudi kasnejše znanstvene raziskave niso ovrgle, smo se na Inštitutu za novejšo
+               zgodovino odločili, da jih ponovno izdamo kot odprto dostopno spletno publikacijo.
+               Obenem smo v skladu z sodobnimi raziskovalnimi trendi odprte znanosti hkrati objavili
+               še vse raziskovalne podatke, ki so bili podlaga za izvedbo te študije.<note
+                  place="foot" xml:id="ftn1" n="1">Trenutno so objavljeni raziskovalni podatki iz
+                  leta 2014. To verzijo podatkov iz aplikacije za hrambo in obdelavo podatkov o
+                  žrtvah vojne smo imeli shranjeno v inštitutskem GitLab repozitoriju. Verzija
+                  podatkov iz te aplikacije, na podlagi katere je nastala dotična študija, pa na
+                  žalost ni bila posebej shranjena. V načrtu imamo, da bomo te podatke uspeli
+                  naknadno izluščiti iz shranjenih verzij podatkov v sami aplikaciji. V tem primeru
+                  bomo tudi ustrezno posodobili to spletno izdajo.</note></p>
+            <p xml:id="preface-p-6">Po zaključku tega raziskovalnega projekta smo raziskovalne
+               podatke sicer še dopolnjevali. Aktualna verzija zbirke vseh raziskovalnih podatkov je
+               tako dostopna v novi <ref target="https://www.sistory.si/ww2">spletni
+                  aplikaciji</ref> na portalu <ref target="https://www.sistory.si/">Zgodovina
+                  Slovenije – Sistory</ref>. Vendar to ne pomeni, da je trenutna verzija zbirke
+               sedaj dokončna in popolna. Zavedati se moramo, da zaradi različnih vzrokov zbirka
+               podatkov nikoli ne bo popolna. Za nekaterimi žrtvami se je namreč izgubila vsakršna
+               sled v dokumentih, literaturi in pričevanjih. Za drugimi žrtvami so se ohranili le
+               drobci oziroma zelo pomanjkljivi nizi podatkov. Obenem so lahko tudi zelo velike
+               razlike glede zanesljivosti podatkov o žrtvah. Niso redki primeri, ko so o isti osebi
+               dostopni različni ali celo kontradiktorni podatki (različni datumi rojstva oziroma
+               smrti, različne okoliščine smrti ipd.). Ker lahko raziskovalci v analizah uporabijo
+               le enega od nasprotujočih si podatkov, morajo presoditi njihovo verodostojnost. Zato
+               je bilo zbiranje podatkov o žrtvah druge svetovne vojne vedno tudi intelektualno
+               avtorsko delo raziskovalk z dolgoletnimi izkušnjami zbiranja, obdelave in analize
+               historičnih podatkov. Samo na tej podlagi so dejstva o žrtvah lahko dobila objektivno
+               vrednost. Ki so bila potem podlaga za subjektivne raziskave v skladu z zgodovinsko
+               znanostjo.</p>
+            <p xml:id="preface-p-7">Raziskovalna skupina je te dileme razreševala tako, da je za
+               vsako žrtev vodila čim bolj natančne evidence o virih, iz katerih je črpala podatke
+               ter si v opombah zapisala tudi tiste alternativne podatke, ki jih ni upoštevala v
+               analitičnih podatkovnih poljih. Z novo aplikacijo na portalu SIstory smo še dogradili
+               možnost za vnašanje novih in tudi alternativnih podatkov. Hkrati smo <ref
+                  target="https://www.inz.si/sl/Dogodki/Delavnica_ww2/">povabili druge raziskovalce
+                  in širšo javnost</ref> k dopolnjevanju zbirke podatkov. Tudi v skladu z lastnimi
+               raziskovalnimi cilji.</p>
+            <p xml:id="preface-p-8">V izogib morebitnim nesporazumom pa za konec še sledeče
+               pojasnilo:</p>
+            <p xml:id="preface-p-9">Tega <hi rend="italic">Uvoda</hi> nisem napisal kot aktualni
+               direktor Inštituta za novejšo zgodovino, temveč kot raziskovalec na področju
+               digitalne humanistike, ki je pristojen za obdelavo in analizo raziskovalnih podatkov,
+               za pretvorbe in kodiranje v primerne formate za nadaljnjo obdelavo ter za digitalne
+               znanstvene izdaje. Objavljena študija ni uradno stališče Inštituta za novejšo
+               zgodovino glede zgodovine druge svetovne vojne in neposredno po njej. Inštitut za
+               novejšo zgodovino namreč kot avtonomni javni raziskovalni zavod zagovarja in spodbuja
+               avtonomijo znanstvenega raziskovanja na inštitutu. Inštitut za novejšo zgodovino
+               spodbuja raziskovalce, da aktivno sodelujejo znanstvenih razpravah in pri tem
+               producirajo vedno nova znanstvena spoznanja. Za katera seveda ni nujno, da so enaka
+               kot znanstvena spoznanja njihovih kolegov in drugih raziskovalnih skupin. Zato je
+               nujno, da se ta proces ustvarjanja novih znanstvenih spoznanj nikoli ne razume kot
+               uradno stališče matične raziskovalne organizacije, temveč kot del znanstvenih in
+               javnih razprav, ki potekajo znotraj in zunaj inštituta. Ta študija je torej rezultat
+               poglobljenega znanstvenega raziskovanja projektne skupine raziskovalk in
+               raziskovalcev z obsežnimi izkušnjami in znanstveno preverljivimi referencami
+               delovanja na tem področju. Študija je celovita interpretacija zapletenih in
+               večplastnih dogodkov med drugo svetovno vojno in neposredno po njej na Slovenskem. V
+               kolikor bo ta študija spodbudila nadaljnje znanstvene razprave, bodo le-te morale
+               nujno potekati kot celovite interpretacije tega dela naše zgodovine. Pri čemer bodo
+               tako obstoječi kot dopolnjeni in na novo klasificirani raziskovalni podatki o žrtvah
+               druge svetovne vojne in zaradi nje odlično izhodišče za nove znanstvene razprave.</p>
+         </div>
+      </front>
       <body>
          <p>Some text here.</p>
       </body>
-  </text>
+   </text>
 </TEI>
